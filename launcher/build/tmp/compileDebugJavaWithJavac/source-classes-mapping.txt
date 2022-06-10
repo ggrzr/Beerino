@@ -1,0 +1,2 @@
+com/vuforia/engine/VuforiaEngine/BuildConfig.java
+ com.vuforia.engine.VuforiaEngine.BuildConfig

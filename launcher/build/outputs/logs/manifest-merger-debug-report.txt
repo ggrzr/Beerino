@@ -1,0 +1,346 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-81:12
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:17:1-49:12
+MERGED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Harper\.gradle\caches\transforms-3\7e025ebb9e05322012d2ddcfb7a67905\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\65df79b35058b40e7f31c09547e9e1cd\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\e3b360d59c14c36969c0a1e267ec8469\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\9ba6abfde6dd02c70f63d4ee01242da4\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\a8b7f5acc97b14285bafd4f4df7e8e65\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\9701f5df2631864b7c3af6d792da099c\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\bef7dbfbb248c7f5c7158df32d86aecc\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\7ec461567bb7e3c92cec16851f1ddf75\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\b019dd6c3eb44c2d77e822df9dff775b\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\a161681382420cfbf0fb5a03826a23c2\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\d9904bda6966bf6d5e173884ca94bc70\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\55e2446e1c8ca1dbeceee8a9b9db15aa\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\c43f5af4020113b24f7203dce2e9c50f\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\d52ef60b5cdd1557e1ce2846d7980f20\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\9332a9f47b51deb5793710cc91a3a290\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\cd3fcc1ae7e4591e71ffa2d63ffa1fa6\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\fdafa54f58cc1422480821f8d2a7068a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\40e22047ed158655a4f77d326b2c933b\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\45ec0637bc33d1d34190af5f65017aad\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\ac0ae012a5c7876df8077b55cf011a38\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\1df973c23c01a92c18a77e97a6294e96\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\32cc0643bdbc076e4d1649094e1d8663\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\9cfcbfd37dc275b769c6bd712e33e718\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\590dc94f6a42c2a499d32f0dd82d1d99\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\6de811bd4c6052de138700b524dca93a\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\36a86d968ed31544c180c5e50edf4c17\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\a87004a6776743b38ad157f4c350ba0e\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:70-112
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:113-159
+	android:versionCode
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:3:160-200
+supports-screens
+ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:5:3-159
+MERGED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-79:19
+MERGED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-79:19
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:33:5-47:19
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:33:5-47:19
+MERGED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:13:5-23:19
+MERGED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:13:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Harper\.gradle\caches\transforms-3\7e025ebb9e05322012d2ddcfb7a67905\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Harper\.gradle\caches\transforms-3\7e025ebb9e05322012d2ddcfb7a67905\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\cd3fcc1ae7e4591e71ffa2d63ffa1fa6\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\cd3fcc1ae7e4591e71ffa2d63ffa1fa6\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\fdafa54f58cc1422480821f8d2a7068a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\fdafa54f58cc1422480821f8d2a7068a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\cd3fcc1ae7e4591e71ffa2d63ffa1fa6\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:5:49-81
+	android:roundIcon
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:5:114-156
+	android:icon
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml:5:82-113
+uses-sdk
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:25:5-27:41
+MERGED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:5:5-44
+MERGED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Harper\.gradle\caches\transforms-3\7e025ebb9e05322012d2ddcfb7a67905\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Harper\.gradle\caches\transforms-3\7e025ebb9e05322012d2ddcfb7a67905\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\65df79b35058b40e7f31c09547e9e1cd\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\65df79b35058b40e7f31c09547e9e1cd\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\e3b360d59c14c36969c0a1e267ec8469\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\e3b360d59c14c36969c0a1e267ec8469\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\9ba6abfde6dd02c70f63d4ee01242da4\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\9ba6abfde6dd02c70f63d4ee01242da4\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\a8b7f5acc97b14285bafd4f4df7e8e65\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\a8b7f5acc97b14285bafd4f4df7e8e65\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\9701f5df2631864b7c3af6d792da099c\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\9701f5df2631864b7c3af6d792da099c\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\bef7dbfbb248c7f5c7158df32d86aecc\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\bef7dbfbb248c7f5c7158df32d86aecc\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\7ec461567bb7e3c92cec16851f1ddf75\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\7ec461567bb7e3c92cec16851f1ddf75\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\b019dd6c3eb44c2d77e822df9dff775b\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\b019dd6c3eb44c2d77e822df9dff775b\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\a161681382420cfbf0fb5a03826a23c2\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\a161681382420cfbf0fb5a03826a23c2\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\d9904bda6966bf6d5e173884ca94bc70\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\d9904bda6966bf6d5e173884ca94bc70\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\55e2446e1c8ca1dbeceee8a9b9db15aa\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\55e2446e1c8ca1dbeceee8a9b9db15aa\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\c43f5af4020113b24f7203dce2e9c50f\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\c43f5af4020113b24f7203dce2e9c50f\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\d52ef60b5cdd1557e1ce2846d7980f20\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\d52ef60b5cdd1557e1ce2846d7980f20\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\9332a9f47b51deb5793710cc91a3a290\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\9332a9f47b51deb5793710cc91a3a290\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\cd3fcc1ae7e4591e71ffa2d63ffa1fa6\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\cd3fcc1ae7e4591e71ffa2d63ffa1fa6\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\fdafa54f58cc1422480821f8d2a7068a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\fdafa54f58cc1422480821f8d2a7068a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\40e22047ed158655a4f77d326b2c933b\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\40e22047ed158655a4f77d326b2c933b\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\45ec0637bc33d1d34190af5f65017aad\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\45ec0637bc33d1d34190af5f65017aad\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\ac0ae012a5c7876df8077b55cf011a38\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\ac0ae012a5c7876df8077b55cf011a38\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\1df973c23c01a92c18a77e97a6294e96\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\1df973c23c01a92c18a77e97a6294e96\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\32cc0643bdbc076e4d1649094e1d8663\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\32cc0643bdbc076e4d1649094e1d8663\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\9cfcbfd37dc275b769c6bd712e33e718\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\9cfcbfd37dc275b769c6bd712e33e718\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\590dc94f6a42c2a499d32f0dd82d1d99\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\590dc94f6a42c2a499d32f0dd82d1d99\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\6de811bd4c6052de138700b524dca93a\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\6de811bd4c6052de138700b524dca93a\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\36a86d968ed31544c180c5e50edf4c17\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Harper\.gradle\caches\transforms-3\36a86d968ed31544c180c5e50edf4c17\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\a87004a6776743b38ad157f4c350ba0e\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Harper\.gradle\caches\transforms-3\a87004a6776743b38ad157f4c350ba0e\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\LastRun\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-51
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-65
+MERGED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:10:5-65
+MERGED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-62
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:36
+MERGED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:7:5-60
+MERGED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:7:5-60
+	android:required
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-33
+		MERGED from E:\LastRun\launcher\src\main\AndroidManifest.xml:16:5-18:36
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-72
+activity#com.unity3d.player.MainActivity
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-59
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-59:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-194
+	android:theme
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:13-54
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:25-66
+category#android.intent.category.DEFAULT
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:27-73
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-55:40
+	android:value
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:17-37
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-58:40
+	android:value
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:17-37
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:9-63:33
+	android:value
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:9-66:36
+	android:value
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-33
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-47
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:9-69:37
+	android:value
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-34
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:9-72:50
+	android:value
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-47
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:9-75:68
+	android:value
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-65
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-42
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:9-78:40
+	android:value
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from [:unityLibrary] E:\LastRun\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:13-46
+queries
+ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.22.0] C:\Users\Harper\.gradle\caches\transforms-3\3f8e25138f9208d57cc2ef1c5bfba852\transformed\core-1.22.0\AndroidManifest.xml:41:13-62
+uses-permission#android.permission.INTERNET
+ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:11:22-76
+provider#com.vuforia.engine.app.VuforiaContentProvider
+ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:14:9-22:20
+	android:grantUriPermissions
+		ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:18:13-47
+	android:authorities
+		ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:16:13-65
+	android:exported
+		ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:15:13-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:19:13-21:53
+	android:resource
+		ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:21:17-50
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\Harper\.gradle\caches\transforms-3\2e868779640cf17ead5c2dc2ff52ebe5\transformed\VuforiaEngine\AndroidManifest.xml:20:17-67
